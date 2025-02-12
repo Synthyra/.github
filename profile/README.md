@@ -1,3 +1,5 @@
+# Protein science simplified
+
 Synthyra (Public Benefit LLC) is dedicated to empowering researchers across medicine, agriculture, and environmental science with accessible and affordable molecular modeling tools.
 
 Our mission is to accelerate innovations that benefit both science and society through biochemical computation.
