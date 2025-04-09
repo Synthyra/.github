@@ -6,6 +6,8 @@ Our mission is to accelerate innovations that benefit both science and society t
 
 Keep an eye out for our upcoming open-source datasets, models, and tools, as well as tailored for-profit services—designed to help you excel in the life sciences. 
 
+[Website](https://www.synthyra.com)
+
 [Huggingface](https://huggingface.co/Synthyra)
 
-[Website](https://www.gleghornlab.com/protein-models)
+[LinkedIn](https://linkedin.com/company/synthyra)
