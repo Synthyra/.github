@@ -4,7 +4,7 @@ Synthyra (Public Benefit LLC) is dedicated to empowering researchers across medi
 
 Our mission is to accelerate innovations that benefit both science and society through biochemical computation.
 
-Keep an eye out for our upcoming open-source datasets, models, and tools, as well as tailored for-profit services—designed to help you excel in the life sciences. 
+Synthyra is now in beta. Check out our custom models for protein annotation and PPI at [synthyra.com](https://www.synthyra.com).
 
 [Website](https://www.synthyra.com)
 
